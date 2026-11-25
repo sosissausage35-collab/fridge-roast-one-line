@@ -1,0 +1,1 @@
+{"description":"One-line roast of a smart fridge for the make.fun Fridge Roast bounty","license":"MIT","main":"main.ts","name":"fridge-roast-one-line","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
